@@ -19,3 +19,7 @@ console.log(A)
 然后执行 `npm run build` 进行编译
 
 执行 `npm run print`
+
+## Result
+
+![](./ts-print-demo.jpg)
